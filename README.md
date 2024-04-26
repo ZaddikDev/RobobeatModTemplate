@@ -26,4 +26,4 @@ Finally, after all these steps above, you can finally build your project. Simply
 
 ![project right click and build image](https://github.com/ZaddikDev/RobobeatModTemplate/assets/63800482/9b050ac1-a95a-47db-9cf3-e2747d08583e)
 
-### Congratulations! Now you can develop your own mod
+### Congratulations! Now you can start developing
