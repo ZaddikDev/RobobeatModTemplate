@@ -8,7 +8,7 @@ To build this project, you need:
 - A [copy of ROBOBEAT Demo](https://store.steampowered.com/app/1456760/ROBOBEAT/) (ROBOBEAT will be supported on release)
 - A [copy of BepInEx](https://github.com/BepInEx/BepInEx/releases)
 - Visual Studio Community 2022 with the .NET desktop development workload
-- A repository using [this template](https://github.com/ZaddikDev/RobobeatModTemplate)
+- A repository using [this template](https://github.com/ZaddikDev/RobobeatModTemplate) or a copy of this repository
 
 After obtaining all of the requirements above, you first need to install BepInEx into the ROBOBEAT Demo folder. To do that, I would recommend checking out [this article](https://docs.bepinex.dev/articles/user_guide/installation/index.html).
 After installing it, you need to run the game at least once to generate configuration files and folders.
