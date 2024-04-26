@@ -24,6 +24,6 @@ After obtaining all of the requirements above, you need to run `setup_env.bat`, 
 
 Finally, after all these steps above, you can finally build your project. Simply open the solution in Visual Studio and right click the project->Build. The mod's DLL file will be built in `bin/Debug/RobobeatModTemplate.dll`
 
-![project right click and build image]((https://github.com/ZaddikDev/RobobeatModTemplate/assets/63800482/9b050ac1-a95a-47db-9cf3-e2747d08583e)
+![project right click and build image](https://github.com/ZaddikDev/RobobeatModTemplate/assets/63800482/9b050ac1-a95a-47db-9cf3-e2747d08583e)
 
 ### Congratulations! Now you can develop your own mod
