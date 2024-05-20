@@ -1,6 +1,6 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
-echo Setting up ROBOBEAT enviorement...
+echo Setting up ROBOBEAT environment...
 echo Looking for ROBOBEAT directory...
 goto find_steam
 
@@ -17,12 +17,12 @@ IF EXIST "C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf" (
         set entryval=!entryval:\\=\!
         if "!entry!"=="path" (
             echo Scanning path !entryval!
-            if EXIST "!entryval!\steamapps\common\ROBOBEAT Demo" (
-                set "robobeat_dir=!entryval!\steamapps\common\ROBOBEAT Demo"
-                echo Found Steam library containing ROBOBEAT Demo
+            if EXIST "!entryval!\steamapps\common\ROBOBEAT" (
+                set "robobeat_dir=!entryval!\steamapps\common\ROBOBEAT"
+                echo Found Steam library containing ROBOBEAT
                 goto check
             )
-            echo This Steam library does not contain ROBOBEAT Demo
+            echo This Steam library does not contain ROBOBEAT
         )
     )
     goto check
