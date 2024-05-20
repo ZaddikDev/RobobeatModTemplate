@@ -1,11 +1,11 @@
 # ROBOBEAT Mod Template
 A ROBOBEAT Demo mod template to create your own mods.
 
-> This README is a copy of [this](https://github.com/ZaddikDev/TrackEditorOverhaul) repository, please, open an isse if something seems wrong
+> This README is a copy of [this](https://github.com/ZaddikDev/TrackEditorOverhaul) repository, please, open an issue if something seems wrong
 
 ## Building
 To build this project, you need:
-- A [copy of ROBOBEAT Demo](https://store.steampowered.com/app/1456760/ROBOBEAT/) (ROBOBEAT will be supported on release)
+- A [copy of ROBOBEAT](https://store.steampowered.com/app/1456760/ROBOBEAT/)
 - A [copy of BepInEx](https://github.com/BepInEx/BepInEx/releases)
 - Visual Studio Community 2022 with the .NET desktop development workload
 - A repository using [this template](https://github.com/ZaddikDev/RobobeatModTemplate) or a copy of this repository
