@@ -1,5 +1,5 @@
 # ROBOBEAT Mod Template
-A ROBOBEAT Demo mod template to create your own mods.
+A ROBOBEAT mod template to create your own mods.
 
 > This README is a copy of [this](https://github.com/ZaddikDev/TrackEditorOverhaul) repository, please, open an issue if something seems wrong
 
@@ -10,7 +10,7 @@ To build this project, you need:
 - Visual Studio Community 2022 with the .NET desktop development workload
 - A repository using [this template](https://github.com/ZaddikDev/RobobeatModTemplate) or a copy of this repository
 
-After obtaining all of the requirements above, you first need to install BepInEx into the ROBOBEAT Demo folder. To do that, I would recommend checking out [this article](https://docs.bepinex.dev/articles/user_guide/installation/index.html).
+After obtaining all of the requirements above, you first need to install BepInEx into the ROBOBEAT folder. To do that, I would recommend checking out [this article](https://docs.bepinex.dev/articles/user_guide/installation/index.html).
 After installing it, you need to run the game at least once to generate configuration files and folders.
 
 ### Downloading the mod's source code
